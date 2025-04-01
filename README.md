@@ -1,3 +1,3 @@
 # springboot-reportengine
 
-![Deployment](Report Engine.png)
+![Deployment](deployment.png)
